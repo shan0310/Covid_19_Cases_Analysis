@@ -1,0 +1,1 @@
+This is a python and Power Bi Project. I collected the covid-19 data on date, then use the jupyter notobook with Python to do the data cleaning and data analysis. After that, utilized the Power Bi to do the visualization. 
